@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.13.1",
+  "appInfo": {
+    "name": "TradeMe Server",
+    "description": "",
+    "version": "3fzebybo",
+    "id": "cl4uvdvym22928201lgb07ru3fc",
+    "url": "https://server.amplication.com/cl4uvdvym22928201lgb07ru3fc",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl4uvdvym22928201lgb07ru3fc",
+      "authProvider": "Jwt"
+    }
+  }
+}
